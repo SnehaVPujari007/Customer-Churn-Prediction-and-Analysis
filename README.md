@@ -12,11 +12,11 @@
 
 <li>Data Preprocessing </li>
 <li>Exploratory Data Analysis (EDA) </li>
-Modeling and Evaluation
-Results
+<li>Modeling and Evaluation</li>
+<li>Results</li>
 
-Contributing
-License
+<li>Contributing </li>
+<li>License</li>
 </ol>
 <h3>Project Goals </h3>
 <p>Predict customer churn with a high degree of accuracy.
