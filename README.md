@@ -9,14 +9,12 @@
 <li>Project Goals </li>
 <li>Data Source </li>
 <li> Technologies Used </li>
-
 <li>Data Preprocessing </li>
 <li>Exploratory Data Analysis (EDA) </li>
 <li>Modeling and Evaluation</li>
 <li>Results</li>
+<li>Contributing</li>
 
-<li>Contributing </li>
-<li>License</li>
 </ol>
 <h3>Project Goals </h3>
 <p>Predict customer churn with a high degree of accuracy.
@@ -47,7 +45,7 @@ Data Analysis: pandas, NumPy </li>
 <li>Identify key factors influencing churn, such as tenure, contract type, and monthly charges. </li>
 <li>Correlation analysis to understand the relationship between features. </li>
 <h3>Modeling and Evaluation </h3>
-<li>Model Selection: Use algorithms like logistic regression, decision trees, and XGBoost to predict churn.</li>
+<li>Model Selection: Use algorithms like logistic regression and decision trees to predict churn.</li>
 
 <li>Evaluation Metrics: Evaluate models using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 Results </li>
@@ -58,9 +56,7 @@ Results </li>
 <h3>Contributing </h3>
 <p>Contributions are welcome! Please fork the repository and submit a pull request.</p>
 
-<h3>License </h3>
-<p>This project is licensed under the MIT License.
-</p>
+
 
 <h3> Contact </h3>
 
