@@ -23,7 +23,7 @@ License
 Identify key factors that influence churn to help business stakeholders understand customer behavior.
 Suggest actionable recommendations to reduce churn based on the insights gathered from data analysis. </p>
 <h3>Data Source </h3>
-<p>The dataset used in this project contains anonymized customer information, including demographics, account information, and service usage details. You can use the publicly available Telco Customer Churn dataset on Kaggle or any similar customer data with churn labels.
+<p>The dataset used in this project contains anonymized customer information, including demographics, account information, and service usage details. You can use the publicly available Telco Customer Churn dataset on Kaggle.
 </p>
 
 <h3>Technologies Used </h3>
